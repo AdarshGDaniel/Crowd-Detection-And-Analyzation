@@ -29,3 +29,4 @@ Hence you have a program to detect the number of people in the frame and to plot
 Hope you guys like it!
 ENJOY YOUR CODE
 
+*IT CONTAINS AN EXAMPLE CSV FILE*
